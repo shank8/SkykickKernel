@@ -10,7 +10,7 @@ namespace TheKernel
         {
 
             // Every root runtime service gets its own KernelBuilder
-            // in which it overrides the CreateKernel() method in order to load
+            // in which it overrides the BuildKernel() method in order to load
             // the necessary NinjectModules
             //
             var builder = new ApiKernelBuilder();
