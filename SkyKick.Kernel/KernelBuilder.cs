@@ -9,22 +9,21 @@ namespace SkyKick.Kernel
 {
     public abstract class KernelBuilder : IKernelBuilder
     {
-        // This may not be needed for anything
-        private IKernel Kernel { get; set; }
-
         public IKernel CreateKernel()
         {
             // Build kernel using override
-            Kernel = BuildKernel();
-            return Kernel;
+            var kernel = BuildKernel();
+
+            return kernel;
         }
+
         public IKernel CreateKernel(Func<IKernel, IKernel> Binder)
         {
             // Build kernel using override
-            Kernel = BuildKernel();
+            var kernel = BuildKernel();
 
             // Then invoke the kernel customizing Func
-            return Binder.Invoke(Kernel);
+            return Binder.Invoke(kernel);
         }
 
         public abstract IKernel BuildKernel();
