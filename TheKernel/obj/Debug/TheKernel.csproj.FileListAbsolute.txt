@@ -1,0 +1,12 @@
+c:\users\matt\documents\visual studio 2015\Projects\TheKernel\TheKernel\bin\Debug\TheKernel.exe.config
+c:\users\matt\documents\visual studio 2015\Projects\TheKernel\TheKernel\bin\Debug\TheKernel.exe
+c:\users\matt\documents\visual studio 2015\Projects\TheKernel\TheKernel\bin\Debug\TheKernel.pdb
+c:\users\matt\documents\visual studio 2015\Projects\TheKernel\TheKernel\bin\Debug\Ninject.dll
+c:\users\matt\documents\visual studio 2015\Projects\TheKernel\TheKernel\bin\Debug\Ninject.Extensions.Conventions.dll
+c:\users\matt\documents\visual studio 2015\Projects\TheKernel\TheKernel\bin\Debug\Ninject.xml
+c:\users\matt\documents\visual studio 2015\Projects\TheKernel\TheKernel\bin\Debug\Ninject.Extensions.Conventions.xml
+c:\users\matt\documents\visual studio 2015\Projects\TheKernel\TheKernel\obj\Debug\TheKernel.csprojResolveAssemblyReference.cache
+c:\users\matt\documents\visual studio 2015\Projects\TheKernel\TheKernel\obj\Debug\TheKernel.exe
+c:\users\matt\documents\visual studio 2015\Projects\TheKernel\TheKernel\obj\Debug\TheKernel.pdb
+c:\users\matt\documents\visual studio 2015\Projects\TheKernel\TheKernel\bin\Debug\SkyKick.Kernel.dll
+c:\users\matt\documents\visual studio 2015\Projects\TheKernel\TheKernel\bin\Debug\SkyKick.Kernel.pdb

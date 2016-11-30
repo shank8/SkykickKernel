@@ -1,0 +1,8 @@
+c:\users\matt\documents\visual studio 2015\Projects\TheKernel\SkyKick.Kernel\bin\Debug\SkyKick.Kernel.dll
+c:\users\matt\documents\visual studio 2015\Projects\TheKernel\SkyKick.Kernel\bin\Debug\SkyKick.Kernel.pdb
+c:\users\matt\documents\visual studio 2015\Projects\TheKernel\SkyKick.Kernel\bin\Debug\Ninject.dll
+c:\users\matt\documents\visual studio 2015\Projects\TheKernel\SkyKick.Kernel\bin\Debug\Ninject.xml
+c:\users\matt\documents\visual studio 2015\Projects\TheKernel\SkyKick.Kernel\obj\Debug\SkyKick.Kernel.dll
+c:\users\matt\documents\visual studio 2015\Projects\TheKernel\SkyKick.Kernel\obj\Debug\SkyKick.Kernel.pdb
+c:\users\matt\documents\visual studio 2015\Projects\TheKernel\SkyKick.Kernel\bin\Debug\Ninject.Extensions.Conventions.dll
+c:\users\matt\documents\visual studio 2015\Projects\TheKernel\SkyKick.Kernel\bin\Debug\Ninject.Extensions.Conventions.xml
